@@ -3,4 +3,4 @@ In this project, I used javascript to generate a password for the user. The user
 # Screenshot of Javascript coding
 ![alt text](password-generator-screenshot.png) 
 # URL
-http://127.0.0.1:5500/index.html    
+https://dariushay.github.io/password-generator/    
