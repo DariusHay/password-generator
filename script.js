@@ -16,10 +16,10 @@ var symbols = ["!", "@", "#", "$", "%", "&", "*", "+", "/", "=", "[", "]", "?", 
         return;
     }
     else{
-        var uppercase = confirm("Would you like uppercase letters in your password?");
-        var lowercase = confirm("Would you like lowercase letters in your password? (OK for yes, CANCEL for no)");
-        var numbers = confirm("Would you like numbers in your password? (OK for yes, CANCEL for no)");
-        var special = confirm("Would you like special characters in your password? (OK for yes, CANCEL for no)");
+        var uppercase = confirm("Would you like uppercase letters in your password? (OK for yes, CANCEL for no.)");
+        var lowercase = confirm("Would you like lowercase letters in your password? (OK for yes, CANCEL for no.)");
+        var numbers = confirm("Would you like numbers in your password? (OK for yes, CANCEL for no.)");
+        var special = confirm("Would you like special characters in your password? (OK for yes, CANCEL for no.)");
         var confirmCHar = [];
         var possibleChar = [];
         var temp = [];
